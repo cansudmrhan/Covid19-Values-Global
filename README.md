@@ -1,2 +1,2 @@
 # Covid19 Values ​​
- Shows covid19 values ​​around the world. Developed with vue js
+ Shows covid19 values ​​around the world. Developed by vue.js
